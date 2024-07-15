@@ -15,7 +15,7 @@ public class demo {
 
         // int j = 10;
         // Status [] ss = Status.values();
-        // System.out.println(ss[0]);      // This will return acordint to values.
+        // System.out.println(ss[0]);      // This will return according to values.
 
 
         int k = 5;
