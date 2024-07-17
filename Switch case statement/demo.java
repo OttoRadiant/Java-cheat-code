@@ -1,7 +1,7 @@
 
 
 
-
+//  This is the simplest Switch Case statement.
 
 public class demo {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class demo {
     String result = "";
 
     switch (day) {
-        case "Tuesday" -> result = "10am "; 
+        case "Tuesday" -> result = "10am ";    //You can use operators for such operations
         
         case "Wednesday" -> result = "11am";
             
