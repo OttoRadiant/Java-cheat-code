@@ -24,13 +24,13 @@ public class demo {
         Calculator math = new Calculator();
 
  
-        System.out.print("Enter two integers (separated by space): ");
+        System.out.print("Enter two numbers (separated by space): ");
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         System.out.println("Sum of " + num1 + " and " + num2 + ": " + math.add(num1, num2));
 
         
-        System.out.print("Enter three integers (separated by space): ");
+        System.out.print("Enter three numbers (separated by space): ");
         int num3 = scanner.nextInt();
         int num4 = scanner.nextInt();
         int num5 = scanner.nextInt();
