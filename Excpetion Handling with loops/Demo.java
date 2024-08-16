@@ -7,7 +7,7 @@ public static void main(String[] args) {
 
     
    Scanner sc = new Scanner(System.in); 
-    int userinput = -1;
+    int userinput = -1;   //initializing the value 
     // boolean validinput = false;
 
     while(userinput < 0)
@@ -37,5 +37,5 @@ public static void main(String[] args) {
 
     // System.out.println("You have Entered the number " + userinput);
     // sc.close();
-   
+  
   
