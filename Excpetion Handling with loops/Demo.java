@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class Demo {
 
 public static void main(String[] args) {
-
-    
+  
    Scanner sc = new Scanner(System.in); 
     int userinput = -1;   //initializing the value    
     // boolean validinput = false;
