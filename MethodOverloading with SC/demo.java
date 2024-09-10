@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Calculator {
 
-    // Method to add two integers
+    // Method to add two integers 
     int add(int a, int b) {
         return a + b;
     }
